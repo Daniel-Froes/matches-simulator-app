@@ -1,4 +1,4 @@
-package me.dio.matchesapp
+package me.dio.myapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

@@ -1,4 +1,4 @@
-package me.dio.matchesapp
+package me.dio.myapp
 
 import org.junit.Test
 
