@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703052599870",
+    "project_id": "simulador-de-partidas-sport",
+    "storage_bucket": "simulador-de-partidas-sport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703052599870:android:2294f9733dbf721efb776f",
+        "android_client_info": {
+          "package_name": "me.dio.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703052599870-9047a5q32g12rqr24m8flu1jnd7a24qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf608iwB7ADIxI8HLr0h-wQ8vNuLyMSqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703052599870-9047a5q32g12rqr24m8flu1jnd7a24qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
